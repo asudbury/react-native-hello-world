@@ -3012,9 +3012,9 @@ expo-updates@~0.2.10:
     fbemitter "^2.1.1"
     uuid "^3.4.0"
 
-expo@~38.0.1:
+expo@~38.0.11:
   version "38.0.11"
-  resolved "https://registry.npmjs.org/expo/-/expo-38.0.11.tgz"
+  resolved "https://registry.yarnpkg.com/expo/-/expo-38.0.11.tgz#36f1967136e86a07d60f6f91f3a9e8e006eb22e5"
   dependencies:
     "@babel/runtime" "^7.1.2"
     "@expo/vector-icons" "^10.0.2"
